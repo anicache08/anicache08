@@ -18,7 +18,7 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
 
 ## 🛠️ Skills
 
-- **Frontend**:  
+- **Frontend Development**:  
   ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
   ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen)  
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-lightblue)
