@@ -43,8 +43,8 @@ My passion is leveraging the power of the **MERN Stack** to build scalable, high
 
 ## 📫 Connect with me:
 - 📧 [Email](mailto:aljun.bellen12@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
 - 💼 [Upwork](https://www.upwork.com/freelancers/~0115800f35fff0c20d)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
 
 ---
 
