@@ -42,9 +42,9 @@ My passion is leveraging the power of the **MERN Stack** to build scalable, high
   ![SEO](https://img.shields.io/badge/-SEO-red) ![UX/UI](https://img.shields.io/badge/-UX%2FUI-orange) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-blue)
 
 ## 📫 Connect with me:
-- [Email](mailto:aljun.bellen12@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
-- [Upwork](https://www.upwork.com/freelancers/~0115800f35fff0c20d)
+- 📧 [Email](mailto:aljun.bellen12@gmail.com) aljun.bellen12@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~0115800f35fff0c20d)
 
 ---
 
