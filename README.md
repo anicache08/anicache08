@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aljun!
 
-I'm a **Full-Stack Web and Mobile Developer** with over 9 years of experience in building and optimizing **e-commerce** solutions, especially using **BigCommerce** and **Shopify**. I specialize in both front-end and back-end technologies, creating dynamic, user-centric websites and mobile applications that drive results.
+I'm a **Full-Stack Web and Mobile Developer** with over 4 years of experience specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build dynamic, responsive web applications. I focus on creating **e-commerce** solutions with expertise in **BigCommerce**, **Shopify**, and **WooCommerce**. I also have experience in both front-end and back-end development, as well as mobile app development using **React Native** and **Flutter**.
+
+My passion is leveraging the power of the **MERN Stack** to build scalable, high-performance web apps that offer seamless user experiences.
 
 ## 💼 Experience
 
