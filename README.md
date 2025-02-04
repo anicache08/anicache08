@@ -25,10 +25,13 @@ I'm a **Full-Stack Web and Mobile Developer** with over 4 years of experience in
   ![Node.js](https://img.shields.io/badge/-Node.js-green) ![PHP](https://img.shields.io/badge/-PHP-blue) ![Python](https://img.shields.io/badge/-Python-yellowgreen)
 
 - **State Management**:  
-  ![Redux](https://img.shields.io/badge/-Redux-purple) ![TanStack](https://img.shields.io/badge/-TanStack-lightgreen)
+  ![Redux](https://img.shields.io/badge/-Redux-purple) ![RTK](https://img.shields.io/badge/-RTK-blue)  
+  ![Redux Thunk](https://img.shields.io/badge/-Redux%20Thunk-red) ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-lightblue)  
+  ![TanStack](https://img.shields.io/badge/-TanStack-lightgreen)
 
 - **E-Commerce Platforms**:  
-  ![BigCommerce](https://img.shields.io/badge/-BigCommerce-blueviolet) ![Shopify](https://img.shields.io/badge/-Shopify-green)
+  ![BigCommerce](https://img.shields.io/badge/-BigCommerce-blueviolet) ![Shopify](https://img.shields.io/badge/-Shopify-green)  
+  ![WooCommerce](https://img.shields.io/badge/-WooCommerce-blue)
 
 - **Tools & Platforms**:  
   ![Git](https://img.shields.io/badge/-Git-black) ![Docker](https://img.shields.io/badge/-Docker-blue)
