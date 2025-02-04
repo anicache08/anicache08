@@ -5,7 +5,7 @@ I'm a **Full-Stack Web and Mobile Developer** with over 4 years of experience in
 ## 💼 Experience
 
 ### Full-Stack Web & Mobile Developer
-- Over 4 years of experience in building and deploying web and mobile applications.
+- Over 9 years of experience in building and deploying web and mobile applications.
 - Expertise in front-end technologies like **HTML5**, **CSS3**, **JavaScript**, and frameworks like **React**, **Next.js**, **Vue.js**, and **Angular**.
 - Strong back-end development skills in **Node.js**, **PHP**, **Python**, and **BigCommerce** API integrations.
 - Experience in building mobile apps using **React Native**, **Flutter**, and **Swift**.
