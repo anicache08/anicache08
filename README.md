@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aljun!
 
-I'm a **Full-Stack Web and Mobile Developer** with over 4 years of experience in building and optimizing **e-commerce** solutions, especially using **BigCommerce** and **Shopify**. I specialize in both front-end and back-end technologies, creating dynamic, user-centric websites and mobile applications that drive results.
+I'm a **Full-Stack Web and Mobile Developer** with over 9 years of experience in building and optimizing **e-commerce** solutions, especially using **BigCommerce** and **Shopify**. I specialize in both front-end and back-end technologies, creating dynamic, user-centric websites and mobile applications that drive results.
 
 ## 💼 Experience
 
