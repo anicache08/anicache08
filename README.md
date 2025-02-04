@@ -47,10 +47,10 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
   ![SEO](https://img.shields.io/badge/-SEO-red) ![UX/UI](https://img.shields.io/badge/-UX%2FUI-orange) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-blue)
 
 ## 📫 Connect with me:
-- 📧 [Email](mailto:aljun.bellen12@gmail.com)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~0115800f35fff0c20d)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
-- 📄 [Resume](https://www.dropbox.com/scl/fi/qjvu17yfwze8r3kjib3w6/Aljun-Bellen-s-Resume.pdf)
+- 📧 <a href="mailto:aljun.bellen12@gmail.com" target="_blank">Email</a>
+- 💼 <a href="https://www.upwork.com/freelancers/~0115800f35fff0c20d" target="_blank">Upwork</a>
+- 🌐 <a href="https://www.linkedin.com/in/aljun-bellen-7733ab109/" target="_blank">LinkedIn</a>
+- 📄 <a href="https://www.dropbox.com/scl/fi/qjvu17yfwze8r3kjib3w6/Aljun-Bellen-s-Resume.pdf" target="_blank">Resume</a>
 
 ---
 
