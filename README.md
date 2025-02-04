@@ -36,7 +36,7 @@ I'm a **Full-Stack Web and Mobile Developer** with over 4 years of experience in
 - **Other Skills**:  
   ![SEO](https://img.shields.io/badge/-SEO-red) ![UX/UI](https://img.shields.io/badge/-UX%2FUI-orange) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-blue)
 
-## 📫 How to Reach Me:
+## 📫 Connect with me:
 - Email: aljun.bellen12@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aljun-bellen-7733ab109/
 
