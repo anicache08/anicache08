@@ -1,30 +1,34 @@
-# 👋 Hi, I'm Aljun!
+# 👋 Hi, I'm [Your Name]!
 
-I'm a **Full-Stack Web and Mobile Developer** with over 9 years of experience specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build dynamic, responsive web applications. I focus on creating **e-commerce** solutions with expertise in **BigCommerce**, **Shopify**, and **WooCommerce**. I also have experience in both front-end and back-end development, as well as mobile app development using **React Native** and **Flutter**.
+I'm a **Full-Stack Web and Mobile Developer** with over **9 years** of experience specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build dynamic, responsive web applications. I focus on creating **e-commerce** solutions with expertise in **BigCommerce**, **Shopify**, **WooCommerce**, and mobile app development using **React Native** and **Flutter**. I also have experience in both front-end and back-end development.
 
-My passion is leveraging the power of the **MERN Stack** to build scalable, high-performance web apps that offer seamless user experiences.
+My passion is leveraging the power of the **MERN Stack** and **React Native** to build scalable, high-performance web and mobile apps that offer seamless user experiences.
 
 ## 💼 Experience
 
-### Full-Stack Web & Mobile Developer
-- Over 9 years of experience in building and deploying web and mobile applications.
-- Expertise in front-end technologies like **HTML5**, **CSS3**, **JavaScript**, and frameworks like **React**, **Next.js**, **Vue.js**, and **Angular**.
-- Strong back-end development skills in **Node.js**, **PHP**, **Python**, and **BigCommerce** API integrations.
-- Experience in building mobile apps using **React Native**, **Flutter**, and **Swift**.
+### Full-Stack Developer (MERN Stack & React Native)
+- Over **9 years** of experience in building and deploying **MERN Stack** and **React Native** applications.
+- Expertise in **MongoDB**, **Express.js**, **React**, **Node.js**, and **React Native** to create modern, scalable web and mobile apps.
+- Strong knowledge of **RESTful APIs**, **GraphQL**, and **authentication/authorization** mechanisms (JWT, OAuth).
+- Experience with front-end frameworks like **Next.js** and back-end frameworks such as **Express**.
   
-### BigCommerce & Shopify Specialist
-- Deep knowledge of **BigCommerce** and **Shopify** for e-commerce solutions, including store setup, custom themes, API integrations, and performance optimization.
-- Proficient in integrating third-party tools and payment systems to improve user experience and increase sales.
+### BigCommerce, Shopify & WooCommerce Specialist
+- In-depth experience with **BigCommerce**, **Shopify**, and **WooCommerce** for e-commerce solutions, including store setup, custom themes, and API integrations.
+- Proficient in integrating payment gateways, third-party tools, and enhancing store functionality to boost sales and user engagement.
 
 ## 🛠️ Skills
 
-- **Front-End**:  
+- **Frontend**:  
   ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
-  ![React](https://img.shields.io/badge/-React-blue) ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen)  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-lightblue)  
+  ![Next.js](https://img.shields.io/badge/-Next.js-black) ![Vue.js](https://img.shields.io/badge/-Vue.js-brightgreen)  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-lightblue)
 
-- **Back-End**:  
-  ![Node.js](https://img.shields.io/badge/-Node.js-green) ![PHP](https://img.shields.io/badge/-PHP-blue) ![Python](https://img.shields.io/badge/-Python-yellowgreen)
+- **Backend Development**:  
+  ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Laravel](https://img.shields.io/badge/-Laravel-red)  
+  ![Python](https://img.shields.io/badge/-Python-yellowgreen)
+
+- **Mobile**:  
+  ![React Native](https://img.shields.io/badge/-React%20Native-lightblue)
 
 - **State Management**:  
   ![Redux](https://img.shields.io/badge/-Redux-purple) ![RTK](https://img.shields.io/badge/-RTK-blue)  
