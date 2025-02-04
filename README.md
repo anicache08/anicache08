@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aljun!
 
-I'm a **Fullstack Web and Mobile Developer** with over **9 years** of experience specializing in the **MERN Stack** (MongoDB, Express.js, React/React Native, Node.js) to build dynamic, responsive web applications. I focus on creating **e-commerce** solutions with expertise in **BigCommerce**, **Shopify**, **WooCommerce**, and mobile app development using **React Native** and **Flutter**. I also have experience in both front-end and back-end development.
+I'm a **Fullstack Web and Mobile Developer** with over **9 years** of experience specializing in the **MERN Stack** (MongoDB, Express.js, React/React Native, Node.js) to build dynamic, responsive web applications. I focus on creating **e-commerce** solutions with expertise in **BigCommerce**, **Shopify**, **WooCommerce**, and mobile app development using **React Native** and **Flutter**. I also have experience in both frontend and backend development.
 
 My passion is leveraging the power of the **MERN Stack** and **React Native** to build scalable, high-performance web and mobile apps that offer seamless user experiences.
 
@@ -10,7 +10,7 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
 - Over **9 years** of experience in building and deploying **MERN Stack** and **React Native** applications.
 - Expertise in **MongoDB**, **Express.js**, **React**, **Node.js**, and **React Native** to create modern, scalable web and mobile apps.
 - Strong knowledge of **RESTful APIs**, **GraphQL**, and **authentication/authorization** mechanisms (JWT, OAuth).
-- Experience with front-end frameworks like **Next.js** and back-end frameworks such as **Express**.
+- Experience with frontend frameworks like **Next.js** and backend frameworks such as **Express**, **NestJs**.
   
 ### BigCommerce, Shopify & WooCommerce Specialist
 - In-depth experience with **BigCommerce**, **Shopify**, and **WooCommerce** for e-commerce solutions, including store setup, custom themes, and API integrations.
