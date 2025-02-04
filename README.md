@@ -27,8 +27,9 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
   ![Node.js](https://img.shields.io/badge/-Node.js-green) ![Laravel](https://img.shields.io/badge/-Laravel-red)  
   ![Python](https://img.shields.io/badge/-Python-yellowgreen)
 
-- **Mobile**:  
-  ![React Native](https://img.shields.io/badge/-React%20Native-lightblue)
+- **Mobile Development**:  
+  ![React Native](https://img.shields.io/badge/-React%20Native-lightblue)  
+  ![Flutter](https://img.shields.io/badge/-Flutter-blue)
 
 - **State Management**:  
   ![Redux](https://img.shields.io/badge/-Redux-purple) ![RTK](https://img.shields.io/badge/-RTK-blue)  
