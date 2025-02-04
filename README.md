@@ -10,7 +10,7 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
 - Over **9 years** of experience in building and deploying **MERN Stack** and **React Native** applications.
 - Expertise in **MongoDB**, **Express.js**, **React**, **Node.js**, and **React Native** to create modern, scalable web and mobile apps.
 - Strong knowledge of **RESTful APIs**, **GraphQL**, and **authentication/authorization** mechanisms (JWT, OAuth).
-- Experience with frontend frameworks like **Next.js** and backend frameworks such as **Express**, **NestJs**.
+- Experience with frontend frameworks like **Next.js** and backend frameworks such as **Express** & **NestJs**.
   
 ### BigCommerce, Shopify & WooCommerce Specialist
 - In-depth experience with **BigCommerce**, **Shopify**, and **WooCommerce** for e-commerce solutions, including store setup, custom themes, and API integrations.
