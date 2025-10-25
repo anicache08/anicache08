@@ -51,7 +51,7 @@ My passion is leveraging the power of the **MERN Stack** and **React Native** to
 - 💼 [Upwork](https://www.upwork.com/freelancers/~0115800f35fff0c20d)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/aljun-bellen-7733ab109/)
 - 💼 [Jobstreet](https://ph.jobstreet.com/profile/aljun-bellen-ZwPCkydq3j)
-- 📄 [Resume](https://drive.google.com/file/d/1fAmaeqh_LNVIFOezA5VW1XlRQbl43dRB/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1ByY7_AuF8CM3ER_74DQuekvX5YDaEIWe/view?usp=sharing)
 
 ---
 
